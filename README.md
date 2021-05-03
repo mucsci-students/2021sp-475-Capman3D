@@ -15,6 +15,11 @@ Araselli Morales
 
 <img width="1010" alt="Screen Shot 2021-05-03 at 7 18 08 PM" src="https://user-images.githubusercontent.com/55368387/116944907-61976f00-ac44-11eb-993c-9644d3652aca.png">
 <img width="1168" alt="Screen Shot 2021-05-03 at 7 19 39 PM" src="https://user-images.githubusercontent.com/55368387/116944991-94d9fe00-ac44-11eb-902f-9ac271468ec3.png">
+<img width="1120" alt="Screen Shot 2021-05-03 at 7 24 26 PM" src="https://user-images.githubusercontent.com/55368387/116945312-55f87800-ac45-11eb-9d70-5cf3d9e7b4d6.png">
+<img width="1120" alt="Screen Shot 2021-05-03 at 7 24 35 PM" src="https://user-images.githubusercontent.com/55368387/116945337-64df2a80-ac45-11eb-9450-b535d107cdbe.png">
+<img width="1120" alt="Screen Shot 2021-05-03 at 7 24 42 PM" src="https://user-images.githubusercontent.com/55368387/116945351-6ad50b80-ac45-11eb-8bc8-18d35d2b09ed.png">
+
+
 
 
 
