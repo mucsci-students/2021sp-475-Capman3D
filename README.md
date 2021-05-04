@@ -2,7 +2,7 @@
 
 A 3D Maze style game inspired by the orignal arcade game pacman. You play a man who tries to collect all the needed dots in the game without getting eaten by spiders! Game features three different levels the player is able to choose from the main menu. 
 
-AI Explanation: The spiders use a waypoint-based pathfinding AI to travel towards their target point. The target point is different for each spider, to reflect their personalities (see the "meet the spiders" section). The spiders also switch between chasing their target and wandering randomly. The lengths of these phases are slightly randomized each time, but the base lengths for the wander and chase phases are equal at the start of a game. As the rounds increase, the base lengths get shorter for the wander phase and longer for the chase phase, until eventually the spiders permanently chase their target.
+**AI Explanation**: The spiders use a waypoint-based pathfinding AI to travel towards their target point. The target point is different for each spider, to reflect their personalities (see the "meet the spiders" section). The spiders also switch between chasing their target and wandering randomly. The lengths of these phases are slightly randomized each time, but the base lengths for the wander and chase phases are equal at the start of a game. As the rounds increase, the base lengths get shorter for the wander phase and longer for the chase phase, until eventually the spiders permanently chase their target.
 
 Mac Build Link:
 https://drive.google.com/file/d/1dJ-q1GNfuuEOgor6OPpbaDbCSgq4Agtz/view?usp=sharing
