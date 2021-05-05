@@ -1,6 +1,6 @@
 # Capman
 ## Overview
-A 3D Maze style game inspired by the orignal arcade game pacman. You play a man who tries to collect all the needed dots in the game without getting eaten by spiders! Game features three different levels the player is able to choose from the main menu. 
+A 3D Maze style game inspired by the orignal arcade game Pacman. You play a man who tries to collect all the needed dots in the game without getting eaten by spiders! Game features three different levels the player is able to choose from the main menu. 
 
 ## Downloads
 [Mac Build](https://drive.google.com/file/d/1dJ-q1GNfuuEOgor6OPpbaDbCSgq4Agtz/view?usp=sharing)  
